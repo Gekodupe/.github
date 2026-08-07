@@ -1,4 +1,4 @@
-# FlareForm Ecosystem
+# Flareform Ecosystem
 **All of FF is Open Source and Self-Hostable ❤️**
 
 
